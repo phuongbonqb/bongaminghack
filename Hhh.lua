@@ -11,5 +11,8 @@ gg.getResults(10)
 gg.editAll("9", 4)
 
 gg.toast("☢️☢️☢️ BYPASS Thành Công ☢️☢️☢️")
-
+gg.toast("☢️☢️☢️ BYPASS Thành Công ☢️☢️☢️")
+gg.toast("☢️☢️☢️ BYPASS Thành Công ☢️☢️☢️")
+gg.toast("☢️☢️☢️ BYPASS Thành Công ☢️☢️☢️")
+gg.toast("☢️☢️☢️ BYPASS Thành Công ☢️☢️☢️")
 gg.clearResults()

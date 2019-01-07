@@ -1,4 +1,3 @@
-function MENUVIP()
 menu1 = gg.multiChoice({
 '🎳 Auto Heashot 95% 📌',
 '🎳 Norecoil (in Game) 📌',
@@ -18,6 +17,5 @@ if menu1[5] == true then taidai() end
 if menu1[6] == true then nhaycao() end
 if menu1[7] == true then speedak() end
 if menu1[8] == true then HOME() end
-end
 GLWW=-1
 end
